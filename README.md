@@ -1,0 +1,2 @@
+# InsteadRegister
+项目中太多需要去手动注册枚举到map，于是想用一个枚举代替手动注册；其实有spring可以解决，但是项目中苦于没有用spring
